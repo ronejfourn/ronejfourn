@@ -26,12 +26,9 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
           template: terminal
           base: header, metadata
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
       
