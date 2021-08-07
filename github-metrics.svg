@@ -1431,9 +1431,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.09053497942386" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="292.09053497942386" y="0" width="163.83950617283952" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.93004115226336" y="0" width="4.0699588477366255" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.8243649276154" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="292.8243649276154" y="0" width="163.1234635345534" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.9478284621688" y="0" width="4.052171537831194" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1443,8 +1443,8 @@
                       C
                     </div>
                             <small>
-                                <div>9.26 kB</div>
-                                <div>63.5%</div>
+                                <div>9.32 kB</div>
+                                <div>63.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1466,7 +1466,7 @@
                     </div>
                             <small>
                                 <div>5.19 kB</div>
-                                <div>35.62%</div>
+                                <div>35.46%</div>
                             </small>
                         </div>
                     </section>
@@ -1658,7 +1658,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/08/2021, 01:58 (timezone Asia/Kathmandu) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 08/08/2021, 02:57 (timezone Asia/Kathmandu) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
