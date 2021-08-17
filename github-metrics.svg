@@ -1604,22 +1604,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 63.95497480421457%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">80%</span>
+                            <div class="bar" style="width: 66.37345536061656%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">83%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Lua</span>
-                            <div class="bar" style="width: 9.261578063305775%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">12%</span>
+                            <div class="bar" style="width: 7.865572373418308%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">10%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 4.875984380794486%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">6%</span>
+                            <div class="bar" style="width: 4.14102302832688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 1.9074627516851728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.6199492376382532%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -1627,7 +1627,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17/08/2021, 16:00 (timezone Asia/Kathmandu) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 17/08/2021, 16:56 (timezone Asia/Kathmandu) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
