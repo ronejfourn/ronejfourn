@@ -1501,7 +1501,7 @@
                       C
                     </div>
                             <small>
-                                <div>4 kB</div>
+                                <div>2.59 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1716,7 +1716,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/09/2021, 02:57 (timezone Asia/Kathmandu) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 02/09/2021, 03:59 (timezone Asia/Kathmandu) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
