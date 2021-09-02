@@ -1697,26 +1697,26 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">C</span>
-                            <div class="bar" style="width: 39.57863427934069%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">49%</span>
+                            <span class="name">TeX</span>
+                            <div class="bar" style="width: 38.029701514483165%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">48%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">TeX</span>
-                            <div class="bar" style="width: 32.053538232742596%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="name">C</span>
+                            <div class="bar" style="width: 32.04234671371857%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">40%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 8.367827487916719%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
+                            <div class="bar" style="width: 9.927951771798265%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">12%</span>
                         </div>
                     </div>
                 </section>
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 03/09/2021, 03:59 (timezone Asia/Kathmandu) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 03/09/2021, 04:59 (timezone Asia/Kathmandu) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
