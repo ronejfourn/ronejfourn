@@ -1686,18 +1686,18 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">TeX</span>
-                            <div class="bar" style="width: 44.18930463010422%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="name">C</span>
+                            <div class="bar" style="width: 43.95870612525808%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">55%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">C</span>
-                            <div class="bar" style="width: 35.263967196309586%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">44%</span>
+                            <span class="name">TeX</span>
+                            <div class="bar" style="width: 35.600825877494835%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">45%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.5467281735861952%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.44046799724707497%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -1705,7 +1705,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/09/2021, 19:05 (timezone Asia/Kathmandu) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 07/09/2021, 19:58 (timezone Asia/Kathmandu) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
